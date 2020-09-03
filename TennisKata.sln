@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TennisKata", "TennisKata\TennisKata.fsproj", "{8B851C41-032D-47E8-9005-E616521A035D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TennisKata.Tests", "TennisKata.Tests\TennisKata.Tests.fsproj", "{CAA20CD5-263C-44DA-B67D-FFEE86778DCB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Runner", "Runner\Runner.fsproj", "{549E2337-4841-4630-870C-47FB2AB02132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B851C41-032D-47E8-9005-E616521A035D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B851C41-032D-47E8-9005-E616521A035D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B851C41-032D-47E8-9005-E616521A035D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B851C41-032D-47E8-9005-E616521A035D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA20CD5-263C-44DA-B67D-FFEE86778DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA20CD5-263C-44DA-B67D-FFEE86778DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA20CD5-263C-44DA-B67D-FFEE86778DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA20CD5-263C-44DA-B67D-FFEE86778DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549E2337-4841-4630-870C-47FB2AB02132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549E2337-4841-4630-870C-47FB2AB02132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549E2337-4841-4630-870C-47FB2AB02132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549E2337-4841-4630-870C-47FB2AB02132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
